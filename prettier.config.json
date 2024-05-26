@@ -1,0 +1,21 @@
+{
+    "printWidth": 50,
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "htmlWhitespaceSensitivity": "ignore",
+    "endOfLine": "lf",
+    "overrides": [
+        {
+            "files": "*.html",
+            "options": {
+                "parser": "html",
+                "htmlWhitespaceSensitivity": "ignore"
+            }
+        }
+    ]
+}
